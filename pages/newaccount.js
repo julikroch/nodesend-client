@@ -34,7 +34,6 @@ const NewAccount = () => {
             setTimeout(() => {
                 router.push('/login')
             }, 3000)
-
         }
     }, [msg])
 

@@ -100,7 +100,6 @@ const Link = ({ link }) => {
                     </div>
                 </>
             )}
-
         </Layout>
     );
 }

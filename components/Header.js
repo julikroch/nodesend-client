@@ -20,6 +20,7 @@ const Header = () => {
         router.push('/')
         clearState()
     }
+    
     return (
         <header className="py-8 flex flex-col md:flex-row items-center justify-between">
             <img
